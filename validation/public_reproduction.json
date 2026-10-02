@@ -1,0 +1,93 @@
+{
+  "status": "PASS",
+  "date_utc": "2026-10-02",
+  "command": "python -E scripts/reproduce.py",
+  "environment": {
+    "platform": "Windows",
+    "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.5.2",
+    "powershell": "7.6.5"
+  },
+  "full_enumerations": true,
+  "full_semantic_outputs_match_saved_evidence": true,
+  "proof_files_verified": 54,
+  "original_evidence_unchanged": true,
+  "multiplicity4": {
+    "covered_parameters": 1804229351,
+    "histogram_survivors": 52910,
+    "nonzero_constant_survivors": 6534,
+    "solutions": 0
+  },
+  "lattice": {
+    "radius_squared": "41",
+    "S": "1024",
+    "integer_scaled_gram_schmidt": "true",
+    "one_per_sign_pair": "true",
+    "leaves": "15207867",
+    "odd_leaves": "7641386",
+    "solutions": "0",
+    "nodes_by_level": "22522975,33223500,43828442,57315009,67593590,78746680,89090262,92570696,95877366,93743468,92179731,88592405,82432920,71981571,61004022,45516505,35871918,27432089,19673918,12654127,7218161,3837641,2035048,1007305,464140,210285,84446,30583,9352,2427,583,136,27,5,1"
+  },
+  "steps": [
+    {
+      "step": "reference_controls",
+      "exit_code": 0,
+      "elapsed_seconds": 0.10254110000096262
+    },
+    {
+      "step": "D_exact_certificate",
+      "exit_code": 0,
+      "elapsed_seconds": 0.08773040003143251
+    },
+    {
+      "step": "C_exact_certificate",
+      "exit_code": 0,
+      "elapsed_seconds": 0.276134500047192
+    },
+    {
+      "step": "E_exact_certificate",
+      "exit_code": 0,
+      "elapsed_seconds": 0.1431887000799179
+    },
+    {
+      "step": "C_positive_path",
+      "exit_code": 0,
+      "elapsed_seconds": 0.05606259987689555
+    },
+    {
+      "step": "E_all_isqrt_inputs",
+      "exit_code": 0,
+      "elapsed_seconds": 1.3624193000141531
+    },
+    {
+      "step": "D_full_multiplicity4",
+      "exit_code": 0,
+      "elapsed_seconds": 38.84229879989289
+    },
+    {
+      "step": "E_different_full_multiplicity4",
+      "exit_code": 0,
+      "elapsed_seconds": 38.222918699961156
+    },
+    {
+      "step": "C_screen_samples",
+      "exit_code": 0,
+      "elapsed_seconds": 0.43743179994635284
+    },
+    {
+      "step": "C_all_survivors_Hasse",
+      "exit_code": 0,
+      "elapsed_seconds": 0.8575053999666125
+    },
+    {
+      "step": "D_full_integer_lattice",
+      "exit_code": 0,
+      "elapsed_seconds": 189.99991060001776
+    },
+    {
+      "step": "E_compare_saved_replay_with_fresh_D",
+      "exit_code": 0,
+      "elapsed_seconds": 0.11035629990510643
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Version used for the recorded full computations.
+numpy==2.5.2

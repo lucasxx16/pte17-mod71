@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "all_source_copies_identical": true,
+  "m4_all_semantic_fields_identical": true,
+  "lattice_all_semantic_fields_identical": true,
+  "candidate_file_empty": true,
+  "original_m4_seconds": 50.27577260020189,
+  "replay_m4_seconds": 42.341852199984714,
+  "original_lattice_seconds": "205.381196",
+  "replay_lattice_seconds": "209.345532",
+  "hashes": {
+    "check_multiplicity4.py": "fe3ce5a41cc341ac5487925bd8ce8e9ebe2ae34c01e9f29172a8766c2efa9220",
+    "IntegerLatticeEnumerator.cs": "e0335d55ad2e9e6f7fb6bc330bc05bd9bb78abe63c02bd9ea9adf845ac5d57b6",
+    "lattice_certificate_input.json": "a34690cae9f85b8a8f884f39d9de9246b830f65b990a1883fbfcea90a3da69a6",
+    "lattice_certificate_input.txt": "1be5258a1d350bf542cd77d986c3830b33e42f53eb505b443ec0156b97c8c3b8",
+    "verify_lattice_certificate.py": "2f58017c58c58c12e8f33b7c922e1d8d8adfd7707b6bd38b3967c574f1c07d02",
+    "run_integer_lattice.ps1": "92068ffa3f2fd158a38afb431ea00b1a4e1eaded203cfb4029ca757cf35a7f51"
+  }
+}

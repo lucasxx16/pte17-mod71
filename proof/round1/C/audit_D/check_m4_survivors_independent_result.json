@@ -1,0 +1,18 @@
+{
+  "survivors_checked": 6534,
+  "mismatches": 0,
+  "first_mismatch_indices": [],
+  "rational_root_multiplicity_histogram": {
+    "12": 5201,
+    "13": 1177,
+    "15": 20,
+    "14": 136
+  },
+  "distinct_root_histogram": {
+    "9": 5969,
+    "12": 8,
+    "10": 518,
+    "11": 39
+  },
+  "fully_split": 0
+}

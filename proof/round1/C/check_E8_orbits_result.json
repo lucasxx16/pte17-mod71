@@ -1,0 +1,122 @@
+{
+  "generator_square_root_12": 2,
+  "generator_order": 35,
+  "orbit_counts": [
+    {
+      "odd_size": 1,
+      "orbit_count": 1,
+      "fixed_subset_terms": {
+        "identity": 35,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      },
+      "direct_brute_orbit_count": 1,
+      "all_canonical_reps_have_bit0": true
+    },
+    {
+      "odd_size": 3,
+      "orbit_count": 187,
+      "fixed_subset_terms": {
+        "identity": 6545,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      },
+      "direct_brute_orbit_count": 187,
+      "all_canonical_reps_have_bit0": true
+    },
+    {
+      "odd_size": 5,
+      "orbit_count": 9276,
+      "fixed_subset_terms": {
+        "identity": 324632,
+        "order5": 28,
+        "order7": 0,
+        "order35": 0
+      },
+      "direct_brute_orbit_count": 9276,
+      "all_canonical_reps_have_bit0": true
+    },
+    {
+      "odd_size": 7,
+      "orbit_count": 192130,
+      "fixed_subset_terms": {
+        "identity": 6724520,
+        "order5": 0,
+        "order7": 30,
+        "order35": 0
+      }
+    },
+    {
+      "odd_size": 9,
+      "orbit_count": 2017356,
+      "fixed_subset_terms": {
+        "identity": 70607460,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      }
+    },
+    {
+      "odd_size": 11,
+      "orbit_count": 11920740,
+      "fixed_subset_terms": {
+        "identity": 417225900,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      }
+    },
+    {
+      "odd_size": 13,
+      "orbit_count": 42181080,
+      "fixed_subset_terms": {
+        "identity": 1476337800,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      }
+    },
+    {
+      "odd_size": 15,
+      "orbit_count": 92798380,
+      "fixed_subset_terms": {
+        "identity": 3247943160,
+        "order5": 140,
+        "order7": 0,
+        "order35": 0
+      }
+    },
+    {
+      "odd_size": 17,
+      "orbit_count": 129644790,
+      "fixed_subset_terms": {
+        "identity": 4537567650,
+        "order5": 0,
+        "order7": 0,
+        "order35": 0
+      }
+    }
+  ],
+  "sum_o_le9": 2218950,
+  "sum_all": 278763940,
+  "periodic_examples": {
+    "o5": [
+      0,
+      7,
+      14,
+      21,
+      28
+    ],
+    "o7": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
+  }
+}

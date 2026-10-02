@@ -1,0 +1,11 @@
+{
+  "outer_tuples_checked": 602,
+  "r0_points_each": 71,
+  "field_points_each": 69,
+  "exceptional_E0_zero_points": [
+    39
+  ],
+  "direct_candidates_in_sample": 100,
+  "record_mismatches": 0,
+  "first_mismatches": []
+}

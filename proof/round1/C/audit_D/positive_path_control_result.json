@@ -1,0 +1,259 @@
+{
+  "status": "PASS",
+  "l1": 18,
+  "l2_squared": 22,
+  "H_zero": true,
+  "z_top_index": 31,
+  "z_top_positive": true,
+  "all_35_intervals_contain_known_vector": true,
+  "original_parity_filter_would_reject": true,
+  "leaf_mass_18_positive_control": true,
+  "min_margin_to_bound": 0,
+  "trace": [
+    {
+      "k": 34,
+      "chosen_z": 0,
+      "lo": 0,
+      "hi": 4,
+      "remaining_before": null
+    },
+    {
+      "k": 33,
+      "chosen_z": 0,
+      "lo": 0,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 32,
+      "chosen_z": 0,
+      "lo": 0,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 31,
+      "chosen_z": 1,
+      "lo": 0,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 30,
+      "chosen_z": 0,
+      "lo": -3,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 29,
+      "chosen_z": 1,
+      "lo": -3,
+      "hi": 4,
+      "remaining_before": null
+    },
+    {
+      "k": 28,
+      "chosen_z": 1,
+      "lo": -2,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 27,
+      "chosen_z": -1,
+      "lo": -3,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 26,
+      "chosen_z": 0,
+      "lo": -2,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 25,
+      "chosen_z": 0,
+      "lo": -2,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 24,
+      "chosen_z": 0,
+      "lo": -3,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 23,
+      "chosen_z": 1,
+      "lo": -1,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 22,
+      "chosen_z": -1,
+      "lo": -3,
+      "hi": 1,
+      "remaining_before": null
+    },
+    {
+      "k": 21,
+      "chosen_z": -1,
+      "lo": -2,
+      "hi": 1,
+      "remaining_before": null
+    },
+    {
+      "k": 20,
+      "chosen_z": 2,
+      "lo": 0,
+      "hi": 4,
+      "remaining_before": null
+    },
+    {
+      "k": 19,
+      "chosen_z": 1,
+      "lo": -1,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 18,
+      "chosen_z": 1,
+      "lo": 0,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 17,
+      "chosen_z": 1,
+      "lo": -1,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 16,
+      "chosen_z": 0,
+      "lo": -1,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 15,
+      "chosen_z": 1,
+      "lo": -1,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 14,
+      "chosen_z": 2,
+      "lo": 1,
+      "hi": 4,
+      "remaining_before": null
+    },
+    {
+      "k": 13,
+      "chosen_z": 3,
+      "lo": 2,
+      "hi": 4,
+      "remaining_before": null
+    },
+    {
+      "k": 12,
+      "chosen_z": 2,
+      "lo": 1,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 11,
+      "chosen_z": -2,
+      "lo": -3,
+      "hi": -1,
+      "remaining_before": null
+    },
+    {
+      "k": 10,
+      "chosen_z": -1,
+      "lo": -2,
+      "hi": 0,
+      "remaining_before": null
+    },
+    {
+      "k": 9,
+      "chosen_z": 0,
+      "lo": -2,
+      "hi": 1,
+      "remaining_before": null
+    },
+    {
+      "k": 8,
+      "chosen_z": 2,
+      "lo": 1,
+      "hi": 3,
+      "remaining_before": null
+    },
+    {
+      "k": 7,
+      "chosen_z": -1,
+      "lo": -2,
+      "hi": 0,
+      "remaining_before": null
+    },
+    {
+      "k": 6,
+      "chosen_z": 5,
+      "lo": 4,
+      "hi": 6,
+      "remaining_before": null
+    },
+    {
+      "k": 5,
+      "chosen_z": -1,
+      "lo": -2,
+      "hi": 0,
+      "remaining_before": null
+    },
+    {
+      "k": 4,
+      "chosen_z": -3,
+      "lo": -4,
+      "hi": -2,
+      "remaining_before": null
+    },
+    {
+      "k": 3,
+      "chosen_z": -2,
+      "lo": -2,
+      "hi": -1,
+      "remaining_before": null
+    },
+    {
+      "k": 2,
+      "chosen_z": 0,
+      "lo": -1,
+      "hi": 1,
+      "remaining_before": null
+    },
+    {
+      "k": 1,
+      "chosen_z": 2,
+      "lo": 1,
+      "hi": 2,
+      "remaining_before": null
+    },
+    {
+      "k": 0,
+      "chosen_z": 2,
+      "lo": 1,
+      "hi": 2,
+      "remaining_before": 22654998750
+    }
+  ]
+}

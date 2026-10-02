@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "eliminated_parameter": "r4",
+  "outer_quadruples": 25411681,
+  "covered_polynomials": 1804229351,
+  "all_histogram_survivors": 52910,
+  "nonzero_constant_survivors": 6534,
+  "direction_extra_zero_points": [],
+  "mass_histogram": {
+    "12": 5201,
+    "13": 1177,
+    "15": 20,
+    "14": 136
+  },
+  "distinct_root_histogram": {
+    "9": 5969,
+    "10": 518,
+    "12": 8,
+    "11": 39
+  },
+  "complete_survivor_set_matches_D": true,
+  "solutions": 0,
+  "elapsed_seconds": 40.10288070002571
+}
